@@ -1,0 +1,9 @@
+﻿# Runtime customer and transaction records
+*.dat
+
+# Compiled executable
+*.exe
+/main
+
+# Local editor settings
+.vscode/
